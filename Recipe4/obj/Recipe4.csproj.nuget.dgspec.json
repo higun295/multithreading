@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\MultiThreading\\ThreadDemo\\ThreadDemo.csproj": {}
+    "E:\\Projects\\MultiThreading\\Recipe4\\Recipe4.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\MultiThreading\\ThreadDemo\\ThreadDemo.csproj": {
+    "E:\\Projects\\MultiThreading\\Recipe4\\Recipe4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\MultiThreading\\ThreadDemo\\ThreadDemo.csproj",
-        "projectName": "ThreadDemo",
-        "projectPath": "E:\\Projects\\MultiThreading\\ThreadDemo\\ThreadDemo.csproj",
+        "projectUniqueName": "E:\\Projects\\MultiThreading\\Recipe4\\Recipe4.csproj",
+        "projectName": "Recipe4",
+        "projectPath": "E:\\Projects\\MultiThreading\\Recipe4\\Recipe4.csproj",
         "packagesPath": "C:\\Users\\higun\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\MultiThreading\\ThreadDemo\\obj\\",
+        "outputPath": "E:\\Projects\\MultiThreading\\Recipe4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
