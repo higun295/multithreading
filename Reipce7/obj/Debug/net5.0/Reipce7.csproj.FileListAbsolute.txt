@@ -1,0 +1,15 @@
+E:\Projects\MultiThreading\Reipce7\bin\Debug\net5.0\Reipce7.exe
+E:\Projects\MultiThreading\Reipce7\bin\Debug\net5.0\Reipce7.deps.json
+E:\Projects\MultiThreading\Reipce7\bin\Debug\net5.0\Reipce7.runtimeconfig.json
+E:\Projects\MultiThreading\Reipce7\bin\Debug\net5.0\Reipce7.runtimeconfig.dev.json
+E:\Projects\MultiThreading\Reipce7\bin\Debug\net5.0\Reipce7.dll
+E:\Projects\MultiThreading\Reipce7\bin\Debug\net5.0\ref\Reipce7.dll
+E:\Projects\MultiThreading\Reipce7\bin\Debug\net5.0\Reipce7.pdb
+E:\Projects\MultiThreading\Reipce7\obj\Debug\net5.0\Reipce7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MultiThreading\Reipce7\obj\Debug\net5.0\Reipce7.AssemblyInfoInputs.cache
+E:\Projects\MultiThreading\Reipce7\obj\Debug\net5.0\Reipce7.AssemblyInfo.cs
+E:\Projects\MultiThreading\Reipce7\obj\Debug\net5.0\Reipce7.csproj.CoreCompileInputs.cache
+E:\Projects\MultiThreading\Reipce7\obj\Debug\net5.0\Reipce7.dll
+E:\Projects\MultiThreading\Reipce7\obj\Debug\net5.0\ref\Reipce7.dll
+E:\Projects\MultiThreading\Reipce7\obj\Debug\net5.0\Reipce7.pdb
+E:\Projects\MultiThreading\Reipce7\obj\Debug\net5.0\Reipce7.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Projects\MultiThreading\Reipce6\bin\Debug\net5.0\Reipce6.exe
+E:\Projects\MultiThreading\Reipce6\bin\Debug\net5.0\Reipce6.deps.json
+E:\Projects\MultiThreading\Reipce6\bin\Debug\net5.0\Reipce6.runtimeconfig.json
+E:\Projects\MultiThreading\Reipce6\bin\Debug\net5.0\Reipce6.runtimeconfig.dev.json
+E:\Projects\MultiThreading\Reipce6\bin\Debug\net5.0\Reipce6.dll
+E:\Projects\MultiThreading\Reipce6\bin\Debug\net5.0\ref\Reipce6.dll
+E:\Projects\MultiThreading\Reipce6\bin\Debug\net5.0\Reipce6.pdb
+E:\Projects\MultiThreading\Reipce6\obj\Debug\net5.0\Reipce6.csproj.AssemblyReference.cache
+E:\Projects\MultiThreading\Reipce6\obj\Debug\net5.0\Reipce6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MultiThreading\Reipce6\obj\Debug\net5.0\Reipce6.AssemblyInfoInputs.cache
+E:\Projects\MultiThreading\Reipce6\obj\Debug\net5.0\Reipce6.AssemblyInfo.cs
+E:\Projects\MultiThreading\Reipce6\obj\Debug\net5.0\Reipce6.csproj.CoreCompileInputs.cache
+E:\Projects\MultiThreading\Reipce6\obj\Debug\net5.0\Reipce6.dll
+E:\Projects\MultiThreading\Reipce6\obj\Debug\net5.0\ref\Reipce6.dll
+E:\Projects\MultiThreading\Reipce6\obj\Debug\net5.0\Reipce6.pdb
+E:\Projects\MultiThreading\Reipce6\obj\Debug\net5.0\Reipce6.genruntimeconfig.cache
