@@ -8,7 +8,14 @@ namespace Recipe2 {
             const string MutexName = "CSharpThreadingCookbook";
 
             using(var m = new Mutex(false, MutexName)) {
-
+                if(!m.WaitOne(TimeSpan.FromSeconds(5), false)) {
+                    WriteLine("Second instance is running!");
+                }
+                else {
+                    WriteLine("Running!");
+                    ReadLine();
+                    m.ReleaseMutex();
+                }
             }
         }
     }
