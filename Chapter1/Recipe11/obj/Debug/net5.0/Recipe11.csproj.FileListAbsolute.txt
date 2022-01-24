@@ -1,0 +1,16 @@
+E:\Projects\MultiThreading\Recipe11\bin\Debug\net5.0\Recipe11.exe
+E:\Projects\MultiThreading\Recipe11\bin\Debug\net5.0\Recipe11.deps.json
+E:\Projects\MultiThreading\Recipe11\bin\Debug\net5.0\Recipe11.runtimeconfig.json
+E:\Projects\MultiThreading\Recipe11\bin\Debug\net5.0\Recipe11.runtimeconfig.dev.json
+E:\Projects\MultiThreading\Recipe11\bin\Debug\net5.0\Recipe11.dll
+E:\Projects\MultiThreading\Recipe11\bin\Debug\net5.0\ref\Recipe11.dll
+E:\Projects\MultiThreading\Recipe11\bin\Debug\net5.0\Recipe11.pdb
+E:\Projects\MultiThreading\Recipe11\obj\Debug\net5.0\Recipe11.csproj.AssemblyReference.cache
+E:\Projects\MultiThreading\Recipe11\obj\Debug\net5.0\Recipe11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MultiThreading\Recipe11\obj\Debug\net5.0\Recipe11.AssemblyInfoInputs.cache
+E:\Projects\MultiThreading\Recipe11\obj\Debug\net5.0\Recipe11.AssemblyInfo.cs
+E:\Projects\MultiThreading\Recipe11\obj\Debug\net5.0\Recipe11.csproj.CoreCompileInputs.cache
+E:\Projects\MultiThreading\Recipe11\obj\Debug\net5.0\Recipe11.dll
+E:\Projects\MultiThreading\Recipe11\obj\Debug\net5.0\ref\Recipe11.dll
+E:\Projects\MultiThreading\Recipe11\obj\Debug\net5.0\Recipe11.pdb
+E:\Projects\MultiThreading\Recipe11\obj\Debug\net5.0\Recipe11.genruntimeconfig.cache
