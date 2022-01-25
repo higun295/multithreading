@@ -20,6 +20,7 @@ namespace Recipe5 {
             Sleep(TimeSpan.FromSeconds(2));
             _mainEvent.Reset();
             WriteLine("The gates have been closed!");
+
             Sleep(TimeSpan.FromSeconds(10));
             WriteLine("The gates are now open for the second time!");
             _mainEvent.Set();
