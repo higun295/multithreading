@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPractice", "ThreadPra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reipce2", "Chapter3\Reipce2\Reipce2.csproj", "{A8099B21-31EB-429B-97B7-425AFD0583F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipe3", "Chapter3\Recipe3\Recipe3.csproj", "{2A7AC094-5E41-4D00-98FB-D9CE7BD05586}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{A8099B21-31EB-429B-97B7-425AFD0583F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8099B21-31EB-429B-97B7-425AFD0583F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8099B21-31EB-429B-97B7-425AFD0583F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7AC094-5E41-4D00-98FB-D9CE7BD05586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7AC094-5E41-4D00-98FB-D9CE7BD05586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7AC094-5E41-4D00-98FB-D9CE7BD05586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7AC094-5E41-4D00-98FB-D9CE7BD05586}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,6 +179,7 @@ Global
 		{60288D99-A481-4333-92A9-EFC5640BF7A9} = {5B5FEF36-F64F-4282-9E9E-A4026D8CE62D}
 		{20EDEE55-CA3A-4C63-B740-16AF1536460F} = {8ED20F2C-5FF7-4156-9EE0-C6C591099975}
 		{A8099B21-31EB-429B-97B7-425AFD0583F3} = {8ED20F2C-5FF7-4156-9EE0-C6C591099975}
+		{2A7AC094-5E41-4D00-98FB-D9CE7BD05586} = {8ED20F2C-5FF7-4156-9EE0-C6C591099975}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {997D4C06-338E-4BBD-A132-8CFFD143A255}
