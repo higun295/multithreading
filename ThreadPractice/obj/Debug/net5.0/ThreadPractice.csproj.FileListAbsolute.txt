@@ -1,0 +1,15 @@
+E:\Projects\MultiThreading\ThreadPractice\bin\Debug\net5.0\ThreadPractice.exe
+E:\Projects\MultiThreading\ThreadPractice\bin\Debug\net5.0\ThreadPractice.deps.json
+E:\Projects\MultiThreading\ThreadPractice\bin\Debug\net5.0\ThreadPractice.runtimeconfig.json
+E:\Projects\MultiThreading\ThreadPractice\bin\Debug\net5.0\ThreadPractice.runtimeconfig.dev.json
+E:\Projects\MultiThreading\ThreadPractice\bin\Debug\net5.0\ThreadPractice.dll
+E:\Projects\MultiThreading\ThreadPractice\bin\Debug\net5.0\ref\ThreadPractice.dll
+E:\Projects\MultiThreading\ThreadPractice\bin\Debug\net5.0\ThreadPractice.pdb
+E:\Projects\MultiThreading\ThreadPractice\obj\Debug\net5.0\ThreadPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MultiThreading\ThreadPractice\obj\Debug\net5.0\ThreadPractice.AssemblyInfoInputs.cache
+E:\Projects\MultiThreading\ThreadPractice\obj\Debug\net5.0\ThreadPractice.AssemblyInfo.cs
+E:\Projects\MultiThreading\ThreadPractice\obj\Debug\net5.0\ThreadPractice.csproj.CoreCompileInputs.cache
+E:\Projects\MultiThreading\ThreadPractice\obj\Debug\net5.0\ThreadPractice.dll
+E:\Projects\MultiThreading\ThreadPractice\obj\Debug\net5.0\ref\ThreadPractice.dll
+E:\Projects\MultiThreading\ThreadPractice\obj\Debug\net5.0\ThreadPractice.pdb
+E:\Projects\MultiThreading\ThreadPractice\obj\Debug\net5.0\ThreadPractice.genruntimeconfig.cache
