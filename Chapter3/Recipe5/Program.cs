@@ -14,11 +14,11 @@ namespace Recipe5 {
             using(var evt = new ManualResetEvent(false))
             using(var cts = new CancellationTokenSource()) {
                 WriteLine("Register timeout operation...");
-                var worker = ThreadPool.RegisterWaitForSingleObject(evt
-                             , (state, isTimedOut) => WorkerOperationWait(cts, isTimedOut)
-                             , null
-                             , workerOperationTimeout
-                             , true);
+                var worker = ThreadPool.RegisterWaitForSingleObject(evt,
+                                                                    (state, isTimedOut) => WorkerOperationWait(cts, isTimedOut),
+                                                                    null,
+                                                                    workerOperationTimeout,
+                                                                    true);
 
                 WriteLine("Starting long running operation...");
                 ThreadPool.QueueUserWorkItem(_ => WorkerOperation(cts.Token, evt));
@@ -32,6 +32,7 @@ namespace Recipe5 {
             for(int i = 0; i < 6; i++) {
                 if(token.IsCancellationRequested) return;
                 Sleep(TimeSpan.FromSeconds(1));
+                WriteLine($"Tick....{i}");
             }
             evt.Set();
         }
