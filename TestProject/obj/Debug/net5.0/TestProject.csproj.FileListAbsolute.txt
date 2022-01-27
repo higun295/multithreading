@@ -1,0 +1,15 @@
+E:\Projects\MultiThreading\TestProject\bin\Debug\net5.0\TestProject.exe
+E:\Projects\MultiThreading\TestProject\bin\Debug\net5.0\TestProject.deps.json
+E:\Projects\MultiThreading\TestProject\bin\Debug\net5.0\TestProject.runtimeconfig.json
+E:\Projects\MultiThreading\TestProject\bin\Debug\net5.0\TestProject.runtimeconfig.dev.json
+E:\Projects\MultiThreading\TestProject\bin\Debug\net5.0\TestProject.dll
+E:\Projects\MultiThreading\TestProject\bin\Debug\net5.0\ref\TestProject.dll
+E:\Projects\MultiThreading\TestProject\bin\Debug\net5.0\TestProject.pdb
+E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfoInputs.cache
+E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfo.cs
+E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.csproj.CoreCompileInputs.cache
+E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.dll
+E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\ref\TestProject.dll
+E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.pdb
+E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.genruntimeconfig.cache
