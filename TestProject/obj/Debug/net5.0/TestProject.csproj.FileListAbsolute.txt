@@ -13,3 +13,4 @@ E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.dll
 E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\ref\TestProject.dll
 E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.pdb
 E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.genruntimeconfig.cache
+E:\Projects\MultiThreading\TestProject\obj\Debug\net5.0\TestProject.csproj.AssemblyReference.cache
